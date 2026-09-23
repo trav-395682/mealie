@@ -18,6 +18,3 @@ services:
       PGID: 1000
       TZ: ${TZ} #America/Anchorage
       BASE_URL: ${BASE_URL} #https://mealie.yourdomain.com
-
-volumes:
-  mealie-data:
